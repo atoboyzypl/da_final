@@ -112,8 +112,8 @@ DA_FINAL/
 
 ## Ссылки
 
-- Репозиторий проекта: [https://github.com/your_username/your_repository](https://github.com/your_username/your_repository)
-- Задеплоенный дашборд: [https://your_streamlit_dashboard_link](https://your_streamlit_dashboard_link)
+- Репозиторий проекта: [https://github.com/atoboyzypl/da_final.git](https://github.com/atoboyzypl/da_final.git)
+- Задеплоенный дашборд: [https://dafinal-eygzehfd2fha7konxct5zk.streamlit.app](https://dafinal-eygzehfd2fha7konxct5zk.streamlit.app)
 
 ---
 
